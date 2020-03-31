@@ -1,2 +1,2 @@
-JavaScript Strings, Numbers, Arrays, and Loops tryout.
+JavaScript Strings, Numbers, Arrays, and Loops tryout
 
