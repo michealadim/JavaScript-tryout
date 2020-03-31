@@ -1,2 +1,2 @@
-# JavaScript_tryout
-You can view using this link==>
+JavaScript Strings, Numbers, Arrays, and Loops tryout
+
