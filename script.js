@@ -1,18 +1,10 @@
-let name = "Ekene";
-console.log("My name is: " + name);
+let myName = "Adim Ekene Micheal";
+let myCourses = ["HTML", "CSS", "JavaScript"];
+console.log(`my name is: ${myName}`);
+console.log(`my courses are: ${myCourses}`);
 
-let course = "HTML, JavaScript, Css";
-console.log("My courses are: " + course);
-
-
-const data = [];
-
-for(let i=0; i<=200; i++) {
-	if(i%3==0) {
-
-		data.push(i);
-
+for (let i = 0; i<=200; i++) {
+	if (myCourses.length % 3 === i % 3) {
+		console.log(i);
 	}
 }
-
-console.log(data);
